@@ -5,7 +5,6 @@ import PostingScreen from "../screens/PostingScreen";
 import LoginScreen from "../screens/LoginScreen";
 import colors from "../config/colors";
 import Icon from "react-native-vector-icons/MaterialCommunityIcons";
-import { Image } from "react-native";
 
 const Tab = createBottomTabNavigator();
 
