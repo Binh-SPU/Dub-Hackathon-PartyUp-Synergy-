@@ -9,8 +9,8 @@ PartyUp is an innovative mobile application designed to be the ultimate companio
 Visual Studio Code, React Native
 
 ## Screens:
-<img src="./app/assets/LoginScreen.jpg" alt="login-screen-demo" width="300"/> <img src="./app/assets/PostingScreen.jpg" alt="posting-screen-demo" width="300"/>
 <p align="center">
+<img src="./app/assets/LoginScreen.jpg" alt="login-screen-demo" width="300"/> <img src="./app/assets/PostingScreen.jpg" alt="posting-screen-demo" width="300"/>
 <img src="./app/assets/CategoryScreen.jpg" alt="category-screen-demo" width="300"/>
 </p>
 
