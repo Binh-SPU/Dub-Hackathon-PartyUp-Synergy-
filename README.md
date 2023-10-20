@@ -10,6 +10,8 @@ Visual Studio Code, React Native
 
 ## Screens:
 ![login-screen-demo](./app/assets/LoginScreen.jpg)
+![category-screen-demo](./app/assets/CategoryScreen.jpg)
+![posting-screen-demo](./app/assets/PostingScreen.jpg)
 
 ## Implementation:
 
